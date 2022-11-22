@@ -1,0 +1,5 @@
+SELECT * FROM Asistencia
+da = '11:23:41' WHERE ClvEmpleado = 2 AND Fecha = '11/22/2022'
+Paterno,
+            ApellidoMaterno, 
+            Direccion, Cargo, Rfc, Curp, Telefono, HorasSemana) VALUES (2,'Nelson Alfonso','Beas','Ham','Direccion x','arquitecto de software','123','123','8117201353','40');
